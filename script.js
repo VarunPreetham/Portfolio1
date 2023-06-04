@@ -1,6 +1,6 @@
 // Function to redirect the user to another link
 function redirect() {
-  window.location.href = "/about.html";
+  window.location.href = "https://varunpreetham.github.io/Portfolio/about.html";
 }
 
 var redirectFlag = false; // Flag variable to track redirection
